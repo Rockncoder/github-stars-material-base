@@ -1,9 +1,9 @@
-# GitHub Stars Material Base
+# GitHub Stars Angular Material Design 
 by Troy Miles aka @therockncoder
  
-github-stars-material-base
+github-stars-md
 
-Learn to build good Angular apps by pinging the GitHub Search API. GitHub Stars is a learning project I use to teach Angular, Angular Material and Angular Unit Testing. This skeleton app is designed to teach adding UI with either Angular Material or Material Design Lite.
+GitHub Stars Angular Material Design is based on the GitHub Stars Material Base project. In this project we add Angular Material to the app step by step and make it mobile web friendly.
 
 Other topics I teach:
 * JavaScript
@@ -17,7 +17,7 @@ Other topics I teach:
 * Node.js
 * Ratpack, _Lean & powerful HTTP apps_
 
-We have affordable weekend boot camps on these subjects year-round in sunny Southern California. We can also arrange on-site training at your offices. Reach out to me on Twitter @therockncoder or email at rockncoder@gmail.com. Be sure to check out [my YouTube channel](https://www.youtube.com/rockncoder).
+We have affordable weekend boot camps on these subjects year-round in sunny Southern California. We can also arrange on-site training at your offices. Reach out to me on Twitter @therockncoder or email at rockncoder@gmail.com. Read my blog at [the rockncoder](https://therockncoder.com). [My YouTube channel](https://www.youtube.com/rockncoder).
 
 _**If you find this repo useful please star it! It is an easy thing to do, makes me smile, and makes me want to continue coding into the night.**_
  
